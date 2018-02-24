@@ -14,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/Borales/reactype/issues"
   },
-  "homepage": "https://github.com/Borales/reactype#readme"
+  "homepage": "https://github.com/Borales/reactype#readme",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
 }
